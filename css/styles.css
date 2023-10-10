@@ -18,6 +18,7 @@ main{
   max-width:1500px;
   background-color:#dedaca;
   align-content: center;
+  padding-top:1rem;
 }
 
 .indexinicioimagenes{
@@ -26,11 +27,27 @@ main{
 }
 
 .indexinicioimagenes{
-  padding-top:2rem;
+  padding-top:1rem;
   padding-left:2%;
   padding-bottom:1%;
   padding-right:2%;
 }
+
+.indexmaspopularestitulo{
+  padding-top:2rem
+}
+
+.indexmaspopulares{
+  padding-top: 2rem;
+  padding-bottom:2rem;
+
+}
+
+.indexmasrecientestitulo{
+  padding-top:2rem;
+  padding-bottom:2rem;
+}
+
 
 
 
