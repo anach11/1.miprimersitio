@@ -48,6 +48,25 @@ main{
   padding-bottom:2rem;
 }
 
+.recipeslinks{
+  padding:1%;
+  border-color:#fe6538;
+
+}
+.masrecientestitulo{
+  padding-top:2%
+}
+
+
+.navbar-nav .nav-link {
+  font-weight: bold;
+  margin-right: 20px; 
+}
+
+.navbar {
+  background-color: #FE6538;
+  width:100%
+}
 
 
 
