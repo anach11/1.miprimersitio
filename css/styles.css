@@ -6,12 +6,15 @@ h1{
   margin-right: 0%;
 }
 
-nav{
-  font-size: 2vh; 
-  background-color:#a0d6fa;
-  margin-left: 0.65%;
-  margin-right: 0.65%;
+.bg-celeste {
+  background-color: #A0D6FA;
 }
+
+
+.bg-coral {
+  background-color: #FE6538;
+}
+
 
 main{
   margin:0 auto;
@@ -58,15 +61,6 @@ main{
 }
 
 
-.navbar-nav .nav-link {
-  font-weight: bold;
-  margin-right: 20px; 
-}
-
-.navbar {
-  background-color: #FE6538;
-  width:100%
-}
 .indexmaspopularesart{
   padding-top:1%;
 }
@@ -74,3 +68,8 @@ main{
 .masrecientesart{
   padding-top:1%;
 }
+
+.indexmaspopularesart{
+  margin-bottom:3
+}
+
