@@ -1,20 +1,19 @@
 h1{
   font-size: 9vh;
-  background-color:#a0d6fa;
-  margin-bottom: 0.1%;
-  margin-left: 0%;
-  margin-right: 0%;
+}
+
+h2{
+  font-size: 7vh;
+  font-style:oblique;
 }
 
 .bg-celeste {
   background-color: #A0D6FA;
 }
 
-
 .bg-coral {
   background-color: #FE6538;
 }
-
 
 main{
   margin:0 auto;
@@ -24,52 +23,12 @@ main{
   padding-top:1rem;
 }
 
-.indexinicioimagenes{
-  margin-top:3rem;
-  
+.navbar-nav .nav-link {
+  margin-right: 20px; 
 }
 
-.indexinicioimagenes{
-  padding-top:1rem;
-  padding-left:2%;
-  padding-bottom:1%;
-  padding-right:2%;
-}
-
-.indexmaspopularestitulo{
-  padding-top:2rem
-}
-
-.indexmaspopulares{
-  padding-top: 2rem;
-  padding-bottom:2rem;
-
-}
-
-.indexmasrecientestitulo{
-  padding-top:2rem;
-  padding-bottom:2rem;
-}
-
-.recipeslinks{
-  padding:1%;
-  border-color:#fe6538;
-
-}
-.masrecientestitulo{
-  padding-top:2%
-}
-
-
-.indexmaspopularesart{
-  padding-top:1%;
-}
-
-.masrecientesart{
-  padding-top:1%;
-}
-
-.indexmaspopularesart{
-  margin-bottom:3
+.navbar {
+  background-color: #FE6538;
+  width:100%
 }
 
